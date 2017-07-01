@@ -1,0 +1,14 @@
+{
+    "name": "root/desktop",
+    "type": "myproject",
+    "require": {
+        "laravel/laravel": "5.4"
+    },
+    "license": "isc",
+    "authors": [
+        {
+            "name": "hemant",
+            "email": "hemant22jain@gmail.com"
+        }
+    ]
+}
